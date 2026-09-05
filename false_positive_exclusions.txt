@@ -9,7 +9,6 @@ Championat
 Chatujme.cz
 ChaturBate
 Codolio
-Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -19,11 +18,12 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Lobsters
+LiveJournal
+Minecraft
 ObservableHQ
+Odysee
 PCGamer
 Pornhub
-Rarible
 Realmeye
 Reddit
 ReverbNation
@@ -47,4 +47,5 @@ interpals
 mercadolivre
 opennet
 phpRU
+social.tchncs.de
 svidbook
