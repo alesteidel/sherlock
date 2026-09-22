@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -7,16 +6,15 @@ Archive.org
 Bandcamp
 CGTrader
 Championat
+Chatujme.cz
 ChaturBate
 Codolio
-Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
 Hashnode
-Heavy-R
 Houzz
 Hubski
 Instapaper
@@ -45,11 +43,9 @@ authorSTREAM
 dailykos
 fixya
 hunting
-igromania
 interpals
 mercadolivre
 opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
