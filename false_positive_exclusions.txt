@@ -6,6 +6,7 @@ Apple Discussions
 Archive.org
 Bandcamp
 CGTrader
+Carbonmade
 Championat
 Chatujme.cz
 ChaturBate
@@ -22,9 +23,6 @@ Houzz
 Hubski
 Instapaper
 Linktree
-LiveJournal
-NationStates Nation
-NationStates Region
 ObservableHQ
 Odysee
 PCGamer
@@ -38,7 +36,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 Weblate
@@ -53,3 +50,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
