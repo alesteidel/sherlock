@@ -3,9 +3,9 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+BoardGameGeek
 Championat
 Chatujme.cz
-Chess
 Codolio
 DeviantArt
 Discord.bio
@@ -42,4 +42,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
