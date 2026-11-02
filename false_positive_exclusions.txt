@@ -10,7 +10,6 @@ DeviantArt
 Discord.bio
 GaiaOnline
 GeeksforGeeks
-GitBook
 HackerNews
 Hashnode
 Hubski
@@ -19,7 +18,6 @@ Minecraft
 ObservableHQ
 Odysee
 PCGamer
-Rarible
 Realmeye
 Reddit
 ReverbNation
@@ -30,6 +28,7 @@ SlideShare
 Splice
 Spotify
 TryHackMe
+Velomania
 Vero
 YandexMusic
 authorSTREAM
