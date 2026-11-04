@@ -1,6 +1,8 @@
 Airliners
 Apple Developer
+Apple Discussions
 Archive.org
+Blogger
 Championat
 Chatujme.cz
 Codolio
@@ -34,6 +36,7 @@ authorSTREAM
 dailykos
 fixya
 hunting
+igromania
 interpals
 mercadolivre
 opennet
